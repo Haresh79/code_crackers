@@ -10,10 +10,9 @@
   </ul>
   <h2>Getting Started</h2>
   <ol>
-    <li>Clone this repository using `git clone https://github.com/your-username/your-repo-name.git`.</li>
-    <li>Install all dependencies required for the project. Refer to the `requirements.txt` file (if applicable) for specific instructions.</li>
-    <li>Run the development server using the appropriate command (e.g., `npm start` or `python manage.py runserver`).</li>
-    <li>Open your web browser and navigate to `http://localhost:port_number` (replace `port_number` with the actual port used by your development server).</li>
+    <li>Clone this repository using `git clone https://github.com/Haresh79/code_crackers/tree/main`.</li>
+    <li>demo link <a href="https://haresh79.github.io/code_crackers/">Code Crackers</a></li>
+    <li>Demo image <img src="" width="300px"></li>
   </ol>
   <h2>Contributing</h2>
   <p>We welcome contributions to this project! If you'd like to contribute, please fork the repository and submit a pull request with your changes.</p>
