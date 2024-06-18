@@ -12,7 +12,7 @@
   <ol>
     <li>Clone this repository using `git clone https://github.com/Haresh79/code_crackers/tree/main`.</li>
     <li>demo link <a href="https://haresh79.github.io/code_crackers/">Code Crackers</a></li>
-    <li>Demo image <img src="https://github.com/Haresh79/code_crackers/blob/main/Screenshot%202024-06-18%20125316.png" width="90%"></li>
+    <li>Demo image <img src="https://github.com/Haresh79/code_crackers/blob/main/Screenshot%202024-06-18%20125316.png" width="70%"></li>
   </ol>
   <h2>Contributing</h2>
   <p>We welcome contributions to this project! If you'd like to contribute, please fork the repository and submit a pull request with your changes.</p>
